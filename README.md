@@ -13,7 +13,7 @@ A simple 3D implementation of the popular 2048 puzzle game built with C++ and Op
 
 ## Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](.github/screenshot.png)
 
 ## Requirements
 
